@@ -1,0 +1,10 @@
+.idea/
+.m2/
+target/
+*/target/
+
+*.class
+*.log
+*.tmp
+
+.DS_Store

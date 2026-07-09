@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teamcity-plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:schemas-jetbrains-com:teamcity-plugin-v1-xml">
+  <info>
+    <name>teamcity-file-upload-plugin</name>
+    <display-name>File Upload Parameter</display-name>
+    <version>@Version@</version>
+    <description>Adds a File build parameter type that uploads a file at build run time and exposes the local agent path as the parameter value.</description>
+    <download-url></download-url>
+    <email></email>
+    <vendor>
+      <name>Zibi Klebba</name>
+      <url></url>
+      <logo></logo>
+    </vendor>
+  </info>
+  <deployment use-separate-classloader="true"/>
+</teamcity-plugin>
